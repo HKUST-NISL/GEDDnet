@@ -43,7 +43,9 @@ Just simplily run:
 
 ### Bibtex
 
-    @article{chen2020GEDD,
+    @article{chen2020geddnet,
      title={GEDDnet: A Network for Gaze Estimation with Dilation and Decomposition},
      author={Chen, Zhaokang and Shi, Bertram E},
+     journal={arXiv preprint arXiv:2001.09284},
+     year={2020}
      }
