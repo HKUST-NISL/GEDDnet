@@ -49,10 +49,13 @@ For inference, run
 Note that a trained model `data/models` and an example of camera matrix `data/camera_matrix.mat` are provided.
 
 ### Bibtex
-
-    @article{chen2020geddnet,
-     title={GEDDnet: A Network for Gaze Estimation with Dilation and Decomposition},
-     author={Chen, Zhaokang and Shi, Bertram E},
-     journal={arXiv preprint arXiv:2001.09284},
-     year={2020}
-     }
+    @article{chen2022towards,
+     title={Towards High Performance Low Complexity Calibration in Appearance Based Gaze Estimation}, 
+     author={Chen, Zhaokang and Shi, Bertram},
+     journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+     year={2022},
+     volume={},
+     number={},
+     pages={1-1},
+     publisher={IEEE},
+     doi={10.1109/TPAMI.2022.3148386}}
